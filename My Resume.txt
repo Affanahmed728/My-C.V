@@ -1,0 +1,90 @@
+<html>
+
+<head>
+
+<title>CV Code</title> <b><h1><i><u>Make CV on html</u></i></h1></b>
+
+</head>
+
+<body>
+
+<table>
+
+<tr>
+<td><center><h1>CURRICULAM-VITAE</h1></center></td>
+</tr>
+
+
+<tr>
+ <td><b><h3> AFFAN AHMED <h3></b> <td><img src="C:\Users\hp\OneDrive - Higher Education Commission\Desktop\WhatsApp Image 2022-12-19 at 16.08.39.jpg"width="100px" height="100"</td>
+</td> </tr>
+
+<tr>
+<td>Address: 2nd floor, Mumtaz Mall, C7, <br>
+Block 2, Gulhan-e-Iqbal,<br>
+Karachi, Pakistan.<br>
+Mobile No: 0326-3608615
+</td>
+</tr>
+
+<tr>
+<td><b>CARRER OBJECTIVE</b></td>
+</tr>
+
+<tr>
+<td><ul>To work in a challenging environment where my knowledge and experienced can be shared and enriched.</ul><br></td>
+</tr>
+
+<tr>
+<td><b>ACADEMIC QUALIFICATION</b></td>
+</tr>
+
+<tr>
+<td><div><ul>
+<li> Graduation- Bs.CS 1st year from SMIU. (in progress) </li>
+<li>Intermediate- Intermediate passed in 2021 from BIEK.</li>
+<li> High School- High school passed in 2019 from BSEK.</li>
+<li> Typing- English only.</li>
+</ul></div></td>
+</tr>
+
+<td><br><br><b>EXPERIECE</b><br>
+<div>
+<ul> <li> Working on it.<br><br></li><ul>
+</div>
+</td>
+</tr>
+
+<tr>
+<td><b>STRENGHTS</b>
+<div><ul><li>Hard working & Confident.</li><li> Responsible.</li><li> Self Motivation & Smart Working.</li></ul></div>
+</td>
+</tr>
+
+<tr>
+<td>
+<b>PERSONAL DETAILS</b><br>
+</td>
+</tr>
+
+<tr>
+<td><ul>Name: Affan Ahmed<br>
+Father Name: Tahir Ahmed <br>
+Date of Birth: 25/08/2022<br>
+E-mail: affanahmed728@gmail.com<br>
+Gender: Male<br>
+Marital Status: Unmarried<br>
+Nationality: Pakistani<br>
+Language Known: Urdu, English<br>
+Hobbies: Listening Music, Watching Movies.<br>
+</ul></td>
+</tr>
+
+<tr>
+   <td><b>DECLARATION</b><br></td>
+</tr>
+
+<tr>
+<td><ul>I hereby declare that the above information given by me is true to the best of my knowledge and belief. I will work in your esteemed co-opertion with my full devotion.</ul></td>
+</tr>
+
